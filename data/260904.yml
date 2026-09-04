@@ -7,7 +7,7 @@ about:
   head: 07cb2ab
   archived: false
   latestVersion: v0.3.0
-  collectedAt: 2026-09-04T19:31:48Z
+  collectedAt: 2026-09-04T21:00:06Z
 timeline:
   created: 2025-08-13
   lastCommit: 2025-10-09
@@ -81,5 +81,28 @@ total:
   openIssue: 40
   commit: 29
 ---
+path: /home/runner/.x-repo/github.com/Adembc/lazyssh
+collectedAt: 2026-09-04T21:00:06Z
+loc:
+  Go:
+    code: 7030
+    comments: 1196
+    blanks: 1063
+    files: 34
+  Makefile:
+    code: 139
+    comments: 23
+    blanks: 47
+    files: 1
+  Markdown:
+    code: 0
+    comments: 157
+    blanks: 71
+    files: 1
+total:
+  code: 7180
+  comments: 1384
+  blanks: 1183
+  files: 36
 ---
 
