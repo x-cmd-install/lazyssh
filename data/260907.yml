@@ -5,7 +5,7 @@ about:
   head: 07cb2ab
   archived: false
   latestVersion: "v0.3.0"
-  collectedAt: 2026-09-07T06:10:39Z
+  collectedAt: 2026-09-07T18:22:07Z
 timeline:
   created: 2025-08-13
   lastCommit: 2025-10-09
@@ -80,7 +80,7 @@ total:
   commit: 29
 ---
 path: /home/runner/.x-repo/github.com/Adembc/lazyssh
-collectedAt: 2026-09-07T06:10:41Z
+collectedAt: 2026-09-07T18:22:07Z
 loc:
   Go:
     code: 7030
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:10:42+00:00
+  collectedAt: 2026-09-07T18:22:08+00:00
   platform:
     darwin/arm64:
       name:  lazyssh_Darwin_arm64.tar.gz
