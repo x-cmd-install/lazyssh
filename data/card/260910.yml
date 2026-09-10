@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.0"
   latestRelease: "v0.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:23:57Z
+  collectedAt: 2026-09-10T20:21:06Z
 timeline:
   created: 2025-08-13
   lastCommit: 2025-10-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-10-08
   lastPrerelease: 
 popularity:
-  star: 3924
+  star: 3926
   watcher: 15
   fork: 148
   release: 4
@@ -84,7 +84,7 @@ total:
   commit: 29
 ---
 path: /home/runner/.x-repo/github.com/Adembc/lazyssh
-collectedAt: 2026-09-10T06:23:58Z
+collectedAt: 2026-09-10T20:21:08Z
 loc:
   Go:
     code: 7030
