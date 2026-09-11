@@ -45,12 +45,12 @@ Total: **7,169** lines of code across **36** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 4 | 0 |
-| last180d | 2026-03-14 | 0 | 0 | 8 | 0 | 6 | 0 |
-| 360d | 2025-09-15 | 1 | 7 | 24 | 5 | 24 | 7 |
-| last720d | 2024-09-20 | 4 | 20 | 26 | 16 | 40 | 29 |
+| 30d | 2026-08-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 2 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 2 | 0 | 4 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 8 | 0 | 6 | 0 |
+| 360d | 2025-09-16 | 1 | 7 | 24 | 5 | 24 | 7 |
+| last720d | 2024-09-21 | 4 | 20 | 26 | 16 | 40 | 29 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lazyssh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:24:42Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:13:53Z._
