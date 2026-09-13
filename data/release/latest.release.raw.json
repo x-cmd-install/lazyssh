@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 929,
       "digest": "sha256:f767423269514edbcf1df0dd929dfc9f3ae05348127068cf17bc7e5dea8649d4",
-      "download_count": 405,
+      "download_count": 406,
       "created_at": "2025-10-08T20:36:48Z",
       "updated_at": "2025-10-08T20:36:48Z",
       "browser_download_url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4824315,
       "digest": "sha256:43163742c109e73f2b71db682fe04fb25dac23e132edd6cf93752b26b408e8c8",
-      "download_count": 3265,
+      "download_count": 3271,
       "created_at": "2025-10-08T20:36:47Z",
       "updated_at": "2025-10-08T20:36:47Z",
       "browser_download_url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5045563,
       "digest": "sha256:8c06b27ddb51939570066682e4fcd55d2453cc6b6c6ca226cb617371f6a51279",
-      "download_count": 363,
+      "download_count": 364,
       "created_at": "2025-10-08T20:36:48Z",
       "updated_at": "2025-10-08T20:36:48Z",
       "browser_download_url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4853557,
       "digest": "sha256:d859663160af7d7752ec7bccfa1b6dcff5cb2d2a03cfb1d04b3a1127171f5e35",
-      "download_count": 1028,
+      "download_count": 1039,
       "created_at": "2025-10-08T20:36:46Z",
       "updated_at": "2025-10-08T20:36:46Z",
       "browser_download_url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5200046,
       "digest": "sha256:3e87196faf748905f98062040d5a0e056de0e0eb0247413b70c2fc03c3928ad9",
-      "download_count": 10214,
+      "download_count": 10254,
       "created_at": "2025-10-08T20:36:47Z",
       "updated_at": "2025-10-08T20:36:47Z",
       "browser_download_url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Linux_x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4898637,
       "digest": "sha256:dfba8c1b8b58cba68228511cec0419965689da48feb96f571351d83b696c86b3",
-      "download_count": 295,
+      "download_count": 296,
       "created_at": "2025-10-08T20:36:47Z",
       "updated_at": "2025-10-08T20:36:48Z",
       "browser_download_url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Windows_arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4893154,
       "digest": "sha256:8471bea4b8a833b60d282815073f01291ab4ed70d9d2778b9e386069329796e0",
-      "download_count": 53,
+      "download_count": 55,
       "created_at": "2025-10-08T20:36:47Z",
       "updated_at": "2025-10-08T20:36:47Z",
       "browser_download_url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Windows_armv6.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5058419,
       "digest": "sha256:b4472cbe6c7f05bf4d1e18cb17a43fe7488571d6f460e2544ad7e5cf0130174c",
-      "download_count": 622,
+      "download_count": 624,
       "created_at": "2025-10-08T20:36:46Z",
       "updated_at": "2025-10-08T20:36:46Z",
       "browser_download_url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Windows_i386.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5239597,
       "digest": "sha256:ca4353a910e453deb5de68c95d83aa8738ff0e52c4bff919f6d74dc27560a1df",
-      "download_count": 2379,
+      "download_count": 2387,
       "created_at": "2025-10-08T20:36:48Z",
       "updated_at": "2025-10-08T20:36:48Z",
       "browser_download_url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Windows_x86_64.zip"
