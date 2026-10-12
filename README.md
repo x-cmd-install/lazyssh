@@ -35,22 +35,22 @@ Total: **7,169** lines of code across **36** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,971 · **Forks**: 154 · **Open issues**: 58 · **Contributors**: 4
+- **Stars**: 3,973 · **Forks**: 153 · **Open issues**: 58 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 20 · **Open PRs**: 25 · **Closed issues**: 16 · **Open issues**: 42 · **Commits**: 29
+- **Releases**: 4 · **Merged PRs**: 20 · **Open PRs**: 28 · **Closed issues**: 16 · **Open issues**: 42 · **Commits**: 29
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 1 | 0 | 4 | 0 |
-| last180d | 2026-04-14 | 0 | 0 | 6 | 0 | 8 | 0 |
-| 360d | 2025-10-16 | 0 | 0 | 20 | 4 | 20 | 0 |
-| last720d | 2024-10-21 | 4 | 20 | 25 | 16 | 42 | 29 |
+| 30d | 2026-09-12 | 0 | 0 | 3 | 0 | 2 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 4 | 0 | 2 | 0 |
+| 90d | 2026-07-14 | 0 | 0 | 4 | 0 | 4 | 0 |
+| last180d | 2026-04-15 | 0 | 0 | 9 | 0 | 8 | 0 |
+| 360d | 2025-10-17 | 0 | 0 | 23 | 4 | 20 | 0 |
+| last720d | 2024-10-22 | 4 | 20 | 28 | 16 | 42 | 29 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for lazyssh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:55:28Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:27:13Z._
