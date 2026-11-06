@@ -45,12 +45,12 @@ Total: **7,169** lines of code across **36** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 4 | 1 | 1 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 4 | 1 | 2 | 0 |
-| 90d | 2026-08-07 | 0 | 0 | 5 | 1 | 2 | 0 |
-| last180d | 2026-05-09 | 0 | 0 | 9 | 1 | 7 | 0 |
-| 360d | 2025-11-10 | 0 | 0 | 22 | 4 | 16 | 0 |
-| last720d | 2024-11-15 | 4 | 20 | 29 | 17 | 42 | 29 |
+| 30d | 2026-10-07 | 0 | 0 | 4 | 1 | 1 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 4 | 1 | 2 | 0 |
+| 90d | 2026-08-08 | 0 | 0 | 5 | 1 | 2 | 0 |
+| last180d | 2026-05-10 | 0 | 0 | 9 | 1 | 7 | 0 |
+| 360d | 2025-11-11 | 0 | 0 | 22 | 4 | 16 | 0 |
+| last720d | 2024-11-16 | 4 | 20 | 29 | 17 | 42 | 29 |
 
 ## Release assets
 
@@ -68,15 +68,6 @@ Total: **7,169** lines of code across **36** files in the top 5 languages.
 | [lazyssh_Windows_i386.zip](https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Windows_i386.zip) | 4.8 MiB | `native/win/x64` |
 | [lazyssh_Windows_x86_64.zip](https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Windows_x86_64.zip) | 5.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/lazyssh). **12** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.3.0` | ✅ latest |
-| Nix unstable | `0.3.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for lazyssh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lazyssh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +77,4 @@ Install metadata for lazyssh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:09:43Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:16:56Z._
